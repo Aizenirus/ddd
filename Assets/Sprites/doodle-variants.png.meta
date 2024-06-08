@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 3467e4ce70ccf4542b6690cc54b24032
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doodle-variants_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 384
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee656d5d9580f5f44959103e9b4849d6
+      internalID: 1474504466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 384
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf7a8ad15f65348b8077dcd2ea4177
+      internalID: -1882725828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 388
+        width: 143
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375444eb38a17b44941aa1acc73c255
+      internalID: 2104629271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 384
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a6ffb66b99404a967d34be259da8d
+      internalID: -2001943598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 240
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3027c93822402445a233279c2e50e56
+      internalID: 1535408401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 243
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ffdb70181783945822c05fdc2e8e22
+      internalID: 1401388923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b4d18a3d6d214caa442f3f4d91c40
+      internalID: -537331156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 240
+        width: 156
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84dce00e2b6c34fb39ca369db155f9
+      internalID: 810935278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 84
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848966a3dd4dbc94ca720d145359353b
+      internalID: 181080204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 86
+        width: 139
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222cece7a864954380b7aa1069bb0bd
+      internalID: -1094944147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 86
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200d11c23da23a41afa393d31a002e6
+      internalID: 651647757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodle-variants_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 81
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9582b664b1015848bfcf3fdea247164
+      internalID: 1223850862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doodle-variants_0: -722622683
+      doodle-variants_1: 563852260
+      doodle-variants_10: 2113120574
+      doodle-variants_11: 2104629271
+      doodle-variants_12: -2001943598
+      doodle-variants_13: -584797765
+      doodle-variants_14: -92921162
+      doodle-variants_15: 1535408401
+      doodle-variants_16: 1424213162
+      doodle-variants_17: 1401388923
+      doodle-variants_18: 1714439223
+      doodle-variants_19: -537331156
+      doodle-variants_2: -1528611431
+      doodle-variants_20: 316104419
+      doodle-variants_21: 810935278
+      doodle-variants_22: -514996973
+      doodle-variants_23: -476809068
+      doodle-variants_24: 1844358037
+      doodle-variants_25: -400671534
+      doodle-variants_26: -409862176
+      doodle-variants_27: 181080204
+      doodle-variants_28: 153429706
+      doodle-variants_29: -1094944147
+      doodle-variants_3: 690453320
+      doodle-variants_30: -1787568218
+      doodle-variants_31: 651647757
+      doodle-variants_32: -1562116620
+      doodle-variants_33: 1223850862
+      doodle-variants_34: 2005092841
+      doodle-variants_35: 1596094622
+      doodle-variants_36: 1515958144
+      doodle-variants_37: 586633180
+      doodle-variants_38: -1969740679
+      doodle-variants_39: -893780322
+      doodle-variants_4: -206633251
+      doodle-variants_40: 345244622
+      doodle-variants_41: -1494231764
+      doodle-variants_42: -455247790
+      doodle-variants_43: -275163878
+      doodle-variants_44: -1632349659
+      doodle-variants_45: -93401242
+      doodle-variants_46: -1317677865
+      doodle-variants_47: 861907720
+      doodle-variants_48: -1239464244
+      doodle-variants_49: -1343568553
+      doodle-variants_5: -615670462
+      doodle-variants_50: -711945659
+      doodle-variants_51: 1693508205
+      doodle-variants_52: -315317716
+      doodle-variants_53: -193661719
+      doodle-variants_54: -562417957
+      doodle-variants_55: 1173549643
+      doodle-variants_56: 573731081
+      doodle-variants_57: 787983192
+      doodle-variants_58: 366681163
+      doodle-variants_6: 2009478327
+      doodle-variants_7: 1474504466
+      doodle-variants_8: 122407447
+      doodle-variants_9: -1882725828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
